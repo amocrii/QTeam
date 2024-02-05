@@ -1,0 +1,14 @@
+{
+  "name": "qteam",
+  "version": "1.0.0",
+  "description": "Assessment: Regression tests regarding order placement process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alin Mocrii",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  }
+}
