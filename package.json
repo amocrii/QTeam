@@ -9,6 +9,8 @@
   "author": "Alin Mocrii",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^13.6.4"
+    "@faker-js/faker": "^8.4.0",
+    "cypress": "^13.6.4",
+    "cypress-mochawesome-reporter": "^3.8.1"
   }
 }
